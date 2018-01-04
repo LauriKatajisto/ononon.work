@@ -9,7 +9,7 @@ Anna sovellukselle nimi ja uniikki algoritmi palauttaa tiedon siitä kuka ansait
 Laskuri laskee tietojesi perusteella arvioin päivittäisestä kalorien kulutuksesta (TDEE). Tämän tiedon perusteella on helpompi toteuttaa uudenvuoden lupauksesi.
 
 # Live
-- https://ononon.work
+- http://ononon.work
 - https://laurikatajisto.com/ononon/
 
 # Tekki
